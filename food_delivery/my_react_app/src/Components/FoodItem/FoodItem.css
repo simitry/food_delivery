@@ -66,3 +66,7 @@
     cursor: pointer;
     border-radius:50%;
 }
+
+.food-item-counter{
+    position: absolute;
+}
