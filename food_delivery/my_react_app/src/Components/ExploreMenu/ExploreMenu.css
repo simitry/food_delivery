@@ -23,10 +23,10 @@
     margin: 20px 0px;
     padding: 10px 10px 0px 10px;
     overflow-x: scroll;
-    /* &::-webkit-scrollbar{display: none;} */
+    /* ::-webkit-scrollbar{display: none;} */
 }
 
-@media(min-width: 1580px){
+@media(min-width: 1150px){
     .explore-menu-list{
         &::-webkit-scrollbar{display:none;}
     }
